@@ -1,0 +1,5 @@
+{
+  "require": {
+    "opendataworld/home_invoice": "dev-main"
+  }
+}
